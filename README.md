@@ -10,6 +10,15 @@ Currently learning Terraform, Docker, Kubernetes, AWS, and GitHub Actions.
 
 ---
 
+## 🌱 What I'm Learning
+- Advanced Terraform modules and best practices  
+- Kubernetes operators and Helm charts  
+- AWS DevOps services (CodePipeline, CodeBuild)  
+- Scripting automation with Python and Bash  
+- Monitoring with Prometheus & Grafana
+
+---
+
 ### 📫 Connect with me
 
 <a href="https://linkedin.com/in/srinivas-naren-vemgal-7801571ab" target="_blank">
@@ -36,6 +45,27 @@ Currently learning Terraform, Docker, Kubernetes, AWS, and GitHub Actions.
 
 ---
 
+## 📂 Featured Projects
+
+### [Terraform AWS EC2 Setup](https://github.com/SrinivasNaren/terraform-aws-ec2)  
+Automated provisioning of AWS EC2 instances using Terraform with reusable modules.
+
+### [Dockerized Sample App](https://github.com/SrinivasNaren/docker-sample-app)  
+Containerized Node.js web app with Docker, ready for deployment.
+
+### [GitHub Actions CI/CD Pipeline](https://github.com/SrinivasNaren/github-actions-cicd)  
+Automated build, test, and deployment workflow using GitHub Actions.
+
+---
+
+## 🎯 Goals
+- Secure a role as a Junior/Mid-level DevOps Engineer  
+- Work on cloud infrastructure automation and CI/CD pipelines  
+- Collaborate with open source DevOps projects  
+- Continuously learn and contribute to the DevOps community
+
+---
+
 ## 📈 GitHub Stats
 
 ![SrinivasNaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrinivasNaren&show_icons=true&theme=radical)
@@ -46,4 +76,6 @@ Currently learning Terraform, Docker, Kubernetes, AWS, and GitHub Actions.
 
 ---
 
-⚡ Fun fact: I enjoy automating everything and sharing knowledge with others!
+⚡ Fun fact: I love automating repetitive tasks and sharing tips with friends! 🚀
+
+> "Success in DevOps is about collaboration, automation, and continuous learning."
