@@ -52,8 +52,8 @@ Currently diving deep into **Terraform**, **Docker**, **Kubernetes**, **AWS**, a
 ### 🔹 [Terraform AWS EC2 Setup](https://github.com/SrinivasNaren/terraform-aws-ec2)  
 Automated provisioning of AWS EC2 instances using Terraform with reusable modules.
 
-### 🔹 [Dockerized Sample App](https://github.com/SrinivasNaren/docker-sample-app)  
-Containerized Node.js web app with Docker, ready for deployment.
+### 🔹 [Dockerized Flask App](https://github.com/SrinivasNaren/dockerized-flask-app)  
+A small Python website built using Flask, containerized with Docker so it can run anywhere without worrying about installations or system differences.
 
 ### 🔹 [GitHub Actions CI/CD Pipeline](https://github.com/SrinivasNaren/github-actions-cicd)  
 Automated build, test, and deployment workflow using GitHub Actions.
