@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 
-💡 Passionate about building **scalable**, **automated** infrastructure and deploying **cloud-native applications** with reliability & efficiency.  
+💡 Passionate about building **scalable** & **automated** infrastructure while deploying **cloud-native applications** with high reliability.  
 🌱 Currently exploring **Terraform**, **Docker**, **Kubernetes**, **AWS**, and **GitHub Actions** at an advanced level.  
 
 ---
@@ -55,13 +55,13 @@
 
 ## 📂 Featured Projects  
 
-### 🔹 [Terraform AWS EC2 Setup](https://github.com/SrinivasNaren/terraform-aws-ec2)  
+🔹 **[Terraform AWS EC2 Setup](https://github.com/SrinivasNaren/terraform-aws-ec2)**  
 🚀 Automated AWS EC2 provisioning using Terraform with reusable modules.
 
-### 🔹 [Dockerized Flask App](https://github.com/SrinivasNaren/dockerized-flask-app)  
+🔹 **[Dockerized Flask App](https://github.com/SrinivasNaren/dockerized-flask-app)**  
 🐳 Python Flask app, containerized with Docker for easy deployment.
 
-### 🔹 [GitHub Actions CI/CD Pipeline](https://github.com/SrinivasNaren/github-actions-cicd)  
+🔹 **[GitHub Actions CI/CD Pipeline](https://github.com/SrinivasNaren/github-actions-cicd)**  
 ⚙️ Fully automated CI/CD pipeline for building, testing & deployment.
 
 ---
@@ -75,14 +75,15 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Streak  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrinivasNaren&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrinivasNaren&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrinivasNaren&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinivasNaren&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinivasNaren&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
