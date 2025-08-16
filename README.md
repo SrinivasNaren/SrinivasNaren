@@ -56,7 +56,7 @@ Currently leveling up skills in **Terraform**, **Kubernetes**, **AWS**, **Docker
 
 🔹 **[Terraform AWS EC2 Setup](https://github.com/SrinivasNaren/terraform-aws-ec2)** — Automated AWS EC2 provisioning using Terraform modules.  
 🔹 **[Dockerized Flask App](https://github.com/SrinivasNaren/dockerized-flask-app)** — Flask app containerized with Docker for easy deployment.  
-🔹 **[GitHub Actions CI/CD](https://github.com/SrinivasNaren/github-actions-cicd)** — Fully automated CI/CD pipeline for building, testing, and deployment.  
+🔹 **[GitHub Actions CI/CD](https://github.com/SrinivasNaren/my-first-actions-demo)** — Fully automated CI/CD pipeline for building, testing, and deployment.  
 
 ---
 
