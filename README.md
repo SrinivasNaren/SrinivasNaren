@@ -12,7 +12,7 @@
 <!-- 🔖 HelloGitHub Badge -->
 <p align="center">
   <a href="https://hellogithub.com/">
-    <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/recommend.svg" alt="Recommend by HelloGitHub" />
+    <img src="https://img.shields.io/badge/Recommended%20by-HelloGitHub-blue?style=for-the-badge&logo=github" alt="Recommend by HelloGitHub" />
   </a>
 </p>
 
