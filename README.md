@@ -1,8 +1,19 @@
 <!-- 🎯 PROFILE HEADER -->
 <h1 align="center">🚀 Hey there, I'm <span style="color:#F7AB0A;">Srinivas Naren</span></h1>
 
+<!-- 🌐 Language Selector -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&width=550&lines=DevOps+Engineer+in+Making;Infrastructure+as+Code+%7C+Cloud+Automation;CI%2FCD+Pipelines+%7C+Kubernetes+%7C+AWS;Automation+Lover+%7C+Problem+Solver" alt="Typing Animation" />
+  <a href="README.md">English</a> | 
+  <a href="README_hi.md">हिंदी</a> | 
+  <a href="README_kn.md">ಕನ್ನಡ</a> | 
+  <a href="README_ta.md">தமிழ்</a>
+</p>
+
+<!-- 🔖 HelloGitHub Badge -->
+<p align="center">
+  <a href="https://hellogithub.com/">
+    <img src="https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/recommend.svg" alt="Recommend by HelloGitHub" />
+  </a>
 </p>
 
 ---
