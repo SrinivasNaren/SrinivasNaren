@@ -3,7 +3,7 @@
 
 <!-- 🌐 Language Selector -->
 <p align="center">
-  <a href="README.md">English</a> | 
+  <a href="README.md">English</a> |  
   <a href="README_hi.md">हिंदी</a> | 
   <a href="README_kn.md">ಕನ್ನಡ</a> | 
   <a href="README_ta.md">தமிழ்</a>
